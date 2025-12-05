@@ -22,6 +22,7 @@ Sto imparando ad usare GitHub perchè è una skill importante
 ### Gaia M Sitzia 
 Sto imparando Git e GitHub per migliorare le mie competenze di
 sviluppo collaborativo.
+
 Questo progetto serve per apprendere Git e GitHub in un
 contesto collaborativo.
-Aggiunta da Mario.
+Aggiunta da Mattia.
