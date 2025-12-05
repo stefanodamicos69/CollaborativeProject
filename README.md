@@ -25,3 +25,6 @@ sviluppo collaborativo.
 # Collaborative Project
 Questo repository è stato creato per esercitarsi con Git e GitHub in
 un contesto collaborativo.
+## Obiettivo del Progetto 
+▪ Questo progetto è stato creato per migliorare le competenze di  team working. 
+Aggiunta da Francesco
