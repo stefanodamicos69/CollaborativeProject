@@ -17,5 +17,5 @@ sviluppo collaborativo. Ma meglio di Riccardo.
 Sto imparando Git e GitHub per migliorare le mie competenze di
 sviluppo collaborativo.
 
-####### Francesco Saracino
+### Francesco Saracino
 Sto imparando ad usare GitHub perchè è una skill importante
