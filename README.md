@@ -8,3 +8,9 @@ un contesto collaborativo.
 ### Riccardo Mondelli
 Sto imparando Git e GitHub per migliorare le mie competenze di
 sviluppo collaborativo.
+
+### Mattia Guazzaroni
+Sto imparando Git e GitHub per migliorare le mie competenze di
+sviluppo collaborativo. Ma meglio di Riccardo.
+
+
